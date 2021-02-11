@@ -2,6 +2,8 @@
 
 Dado um par de imagens estéreo retificadas, utilize janela de correspondência para calcular o mapa de disparidade da segunda imagem em relação à primeira.
 
+**OBS**: O uso de rotinas prontas só é permitido na abertura e salvamento de imagens, álgebra linear e álgebra de matrizes.
+
 ## Dados de entrada
 
 Pares de imagens estéreo retificadas são disponibilizados pela Middlebury Stereo Vision Page (http://vision.middlebury.edu/stereo/). O site também disponibiliza o gabarito de cada par.
