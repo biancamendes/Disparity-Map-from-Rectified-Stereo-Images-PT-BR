@@ -10,7 +10,7 @@ Pares de imagens estéreo retificadas são disponibilizados pela Middlebury Ster
 
 ## Janela de busca
 
-Deverão ser gerados resultados para diferentes tamanhos de janela de busca (e.g., 1 × 1, 3 × 3, 5 × 5, dentro outros).
+Deverão ser gerados resultados para diferentes tamanhos de janela de busca (e.g., 1×1, 3×3, 5×5, dentre outros).
 
 ## Faixa de disparidade
 
