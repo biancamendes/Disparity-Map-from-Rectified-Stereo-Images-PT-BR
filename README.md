@@ -1,21 +1,21 @@
-# Especificação do Problema: Mapa de Disparidade de Imagens Estéreo Retificadas
+# Mapa de Disparidade de Imagens Estéreo Retificadas
 
-Dado um par de imagens estéreo retificadas, utilize janela de correspondência para calcular o mapa de disparidade da segunda imagem em relação à primeira.
+Dado um par de imagens estéreo retificadas, utilizei janela de correspondência para calcular o mapa de disparidade da segunda imagem em relação à primeira.
 
-**OBS**: O uso de rotinas prontas só é permitido na abertura e salvamento de imagens, álgebra linear e álgebra de matrizes.
+**OBS**: O uso de rotinas prontas só foi utilizado na abertura e salvamento de imagens, álgebra linear e álgebra de matrizes.
 
 ## Dados de entrada
 
-Pares de imagens estéreo retificadas são disponibilizados pela Middlebury Stereo Vision Page (http://vision.middlebury.edu/stereo/). O site também disponibiliza o gabarito de cada par.
+O par de imagens estéreo retificadas utilizado foi disponibilizado pela Middlebury Stereo Vision Page (http://vision.middlebury.edu/stereo/). O site também disponibiliza o gabarito do par.
 
 ## Janela de busca
 
-Deverão ser gerados resultados para diferentes tamanhos de janela de busca (e.g., 1×1, 3×3, 5×5, dentre outros).
+Foram gerados resultados para diferentes tamanhos de janela de busca, a saber, 1×1, 3×3, 5×5 e 9×9. O programa permite facilmente a obtenção de resultados para outros tamanhos.
 
 ## Faixa de disparidade
 
-Deverá ser analisada qual a faixa de disparidade da linha de varredura na secunda imagem deve ser percorrida na busca pela correspondência de uma dada localização na imagem de referência.
+Foi analisada qual a faixa de disparidade da linha de varredura na secunda imagem deve ser percorrida na busca pela correspondência de uma dada localização na imagem de referência.
 
 ## Função de correspondência
 
-Duas funções de correspondência devem ser aplicadas: (i) soma do quadrado das diferenças (SSD); e (ii) correlação normalizada.
+Duas funções de correspondência foram aplicadas: (i) soma do quadrado das diferenças (SSD); e (ii) correlação normalizada (NCC).
