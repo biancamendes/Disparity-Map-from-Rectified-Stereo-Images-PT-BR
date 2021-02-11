@@ -14,7 +14,7 @@ Foram gerados resultados para diferentes tamanhos de janela de busca, a saber, 1
 
 ## Faixa de disparidade
 
-Foi analisada qual a faixa de disparidade da linha de varredura na secunda imagem deve ser percorrida na busca pela correspondência de uma dada localização na imagem de referência.
+Foi analisada qual a faixa de disparidade da linha de varredura na segunda imagem deve ser percorrida na busca pela correspondência de uma dada localização na imagem de referência.
 
 ## Função de correspondência
 
